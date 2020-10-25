@@ -25,12 +25,12 @@ Notes:
 
 The screen "keyboard" layout looks like this:
 
-a	b	c	d	e	1	2	3
-f	g	h	i	j	4	5	6
-k	l	m	n	o	7	8	9
-p	q	r	s	t	.	@	0
-u	v	w	x	y	z	_	/
-aA	SP	          			
+    a	b	c	d	e	1	2	3
+    f	g	h	i	j	4	5	6
+    k	l	m	n	o	7	8	9
+    p	q	r	s	t	.	@	0
+    u	v	w	x	y	z	_	/
+    aA  SP          			
 
 aA is the SHIFT key. Pressing this key toggles alpha characters between UPPERCASE and lowercase
 
@@ -56,12 +56,12 @@ Notes:
 
 The screen "keyboard" layout looks like this:
 
-a	b	c	d	e	1	2	3
-f	g	h	i	j	4	5	6
-k	l	m	n	o	7	8	9
-p	q	r	s	t	.	@	0
-u	v	w	x	y	z	_	/
-aA	SP					
+    a	b	c	d	e	1	2	3
+    f	g	h	i	j	4	5	6
+    k	l	m	n	o	7	8	9
+    p	q	r	s	t	.	@	0
+    u	v	w	x	y	z	_	/
+    aA  SP
 
 aA is the SHIFT key. Pressing this key toggles alpha characters between UPPERCASE and lowercase
 SP is the space character
